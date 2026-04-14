@@ -9,6 +9,9 @@ https://github.com/addyosmani/agent-skills
 ## GEO
 https://github.com/yaojingang/GEOFlow
 
+## 画图
+https://github.com/markdown-viewer/skills
+
 # 管理 Skills
 https://chops.md/
 

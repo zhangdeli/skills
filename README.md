@@ -15,3 +15,4 @@ https://github.com/markdown-viewer/skills
 # 管理 Skills
 https://chops.md/
 
+https://skills.yangsir.net/

@@ -6,7 +6,8 @@ https://github.com/MiniMax-AI/skills
 ## 软件开发
 https://github.com/addyosmani/agent-skills
 
-
+## GEO
+https://github.com/yaojingang/GEOFlow
 
 # 管理 Skills
 https://chops.md/

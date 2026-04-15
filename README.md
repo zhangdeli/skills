@@ -14,6 +14,8 @@ https://github.com/markdown-viewer/skills
 
 https://github.com/Cocoon-AI/architecture-diagram-generator
 
+https://github.com/DayuanJiang/next-ai-draw-io
+
 # 管理 Skills
 https://chops.md/
 

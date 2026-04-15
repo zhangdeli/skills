@@ -12,6 +12,8 @@ https://github.com/yaojingang/GEOFlow
 ## 画图
 https://github.com/markdown-viewer/skills
 
+https://github.com/Cocoon-AI/architecture-diagram-generator
+
 # 管理 Skills
 https://chops.md/
 

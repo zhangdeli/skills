@@ -16,6 +16,8 @@ https://github.com/Cocoon-AI/architecture-diagram-generator
 
 https://github.com/DayuanJiang/next-ai-draw-io
 
+https://github.com/cathrynlavery/diagram-design  SVG
+
 ## PPT
 https://github.com/hugohe3/ppt-master
 

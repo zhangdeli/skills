@@ -1,27 +1,43 @@
-# 收集 Skills
-https://github.com/JimLiu/baoyu-skills
+# Skills 资源整理
 
-https://github.com/MiniMax-AI/skills
+## 收集 Skills
 
-## 软件开发
-https://github.com/addyosmani/agent-skills
+| 项目 | 链接 |
+|------|------|
+| baoyu-skills | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) |
+| MiniMax Skills | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) |
 
-## GEO
-https://github.com/yaojingang/GEOFlow
+### 软件开发
 
-## 画图
-https://github.com/markdown-viewer/skills
+| 项目 | 链接 |
+|------|------|
+| agent-skills | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
+| Andrej Karpathy Skills | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) |
 
-https://github.com/Cocoon-AI/architecture-diagram-generator
+### GEO
 
-https://github.com/DayuanJiang/next-ai-draw-io
+| 项目 | 链接 |
+|------|------|
+| GEOFlow | [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow) |
 
-https://github.com/cathrynlavery/diagram-design  SVG
+### 画图
 
-## PPT
-https://github.com/hugohe3/ppt-master
+| 项目 | 说明 | 链接 |
+|------|------|------|
+| markdown-viewer/skills | — | [GitHub](https://github.com/markdown-viewer/skills) |
+| architecture-diagram-generator | — | [Cocoon-AI](https://github.com/Cocoon-AI/architecture-diagram-generator) |
+| next-ai-draw-io | — | [DayuanJiang](https://github.com/DayuanJiang/next-ai-draw-io) |
+| diagram-design | SVG | [cathrynlavery](https://github.com/cathrynlavery/diagram-design) |
 
-# 管理 Skills
-https://chops.md/
+### PPT
 
-https://skills.yangsir.net/
+| 项目 | 链接 |
+|------|------|
+| ppt-master | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) |
+
+---
+
+## 管理 Skills
+
+- [chops.md](https://chops.md/)
+- [skills.yangsir.net](https://skills.yangsir.net/)

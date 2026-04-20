@@ -16,6 +16,9 @@ https://github.com/Cocoon-AI/architecture-diagram-generator
 
 https://github.com/DayuanJiang/next-ai-draw-io
 
+## PPT
+https://github.com/hugohe3/ppt-master
+
 # 管理 Skills
 https://chops.md/
 

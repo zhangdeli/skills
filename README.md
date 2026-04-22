@@ -13,6 +13,7 @@
 |------|------|
 | agent-skills | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
 | Andrej Karpathy Skills | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) |
+| Auto Skills | [midudev/https://github.com/midudev/autoskills](https://github.com/midudev/autoskills) |
 
 ### GEO
 

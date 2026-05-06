@@ -30,6 +30,7 @@
 | architecture-diagram-generator | — | [Cocoon-AI](https://github.com/Cocoon-AI/architecture-diagram-generator) |
 | next-ai-draw-io | — | [DayuanJiang](https://github.com/DayuanJiang/next-ai-draw-io) |
 | diagram-design | SVG | [cathrynlavery](https://github.com/cathrynlavery/diagram-design) |
+| drawio-skill | - | [drawio-skill](https://github.com/Agents365-ai/drawio-skill) |
 
 ### PPT
 

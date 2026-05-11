@@ -5,6 +5,7 @@
 | 项目 | 链接 |
 |------|------|
 | baoyu-skills | [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) |
+| ljg-skills | [lijigang/ljg-skills]https://github.com/lijigang/ljg-skills) |
 | MiniMax Skills | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) |
 
 ### 软件开发
